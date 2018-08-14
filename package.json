@@ -1,0 +1,26 @@
+{
+  "name": "chart-example",
+  "version": "0.0.1",
+  "description": "Example of rendering a timeseries chart with serverless function",
+  "main": "src/App.js",
+  "scripts": {
+    "start": "node src/App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmcclung/chart-example.git"
+  },
+  "keywords": [
+    "Plotly",
+    "Chart"
+  ],
+  "author": "Dylan McClung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmcclung/chart-example/issues"
+  },
+  "homepage": "https://github.com/dmcclung/chart-example#readme",
+  "dependencies": {
+    "d3node-linechart": "^0.0.7"
+  }
+}
